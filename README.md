@@ -18,6 +18,6 @@ Text and graphics layers operate completely independently of each other, and do 
 any way interact, with the text layer visible through 'clear' areas of the graphics layer
 (wherever pixels are set to the colour: R=0, G=0, B=0).
 
-The latest versions of GFXterm (2021-2023) have been ported to Lazarus/FPC, and sucessfully
+The latest versions of GFXterm (2021 onwards) have been ported to Lazarus/FPC, and sucessfully
 compiled for WINDOWS, LINUX, and RASPBIAN. With minimal changes it should also be possible
 to compile for MACOS (the operating system formerly known as OS X).
